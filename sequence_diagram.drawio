@@ -1,6 +1,6 @@
-<mxfile host="65bd71144e" modified="2020-12-10T13:57:01.938Z" agent="5.0 (Macintosh; Intel Mac OS X 10_16_0) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.51.1 Chrome/83.0.4103.122 Electron/9.3.3 Safari/537.36" version="13.10.0" etag="YOTRxOXNaCUDtuvOk8yj" type="embed">
+<mxfile host="65bd71144e" modified="2020-12-10T14:03:04.915Z" agent="5.0 (Macintosh; Intel Mac OS X 10_16_0) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.51.1 Chrome/83.0.4103.122 Electron/9.3.3 Safari/537.36" version="13.10.0" etag="a5HTPz7WkTA-oOZvkoBU" type="embed">
     <diagram id="AjfyErdOSF3fO-XFT9AM" name="Page-1">
-        <mxGraphModel dx="1764" dy="1400" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="1710" dy="1240" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -161,7 +161,7 @@
                     </mxGeometry>
                 </mxCell>
                 <mxCell id="76" value="UMBRELLA PROCESS FLOW DIAGRAM" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=32;" vertex="1" parent="1">
-                    <mxGeometry x="109" y="40" width="610" height="40" as="geometry"/>
+                    <mxGeometry x="109" y="50" width="610" height="40" as="geometry"/>
                 </mxCell>
                 <mxCell id="78" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -231,6 +231,9 @@
                 </mxCell>
                 <mxCell id="164" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fontSize=8;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
                     <mxGeometry x="409" y="250" width="10" height="800" as="geometry"/>
+                </mxCell>
+                <mxCell id="165" value="beneficiary actor" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=32;" vertex="1" parent="1">
+                    <mxGeometry x="280" y="100" width="250" height="40" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
